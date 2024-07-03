@@ -1,4 +1,9 @@
 heyy in the end
+<<<<<<< HEAD
 second line
 hsuw
 
+s
+yeh skiet2 wla block h 
+econd line
+>>>>>>> skit2
